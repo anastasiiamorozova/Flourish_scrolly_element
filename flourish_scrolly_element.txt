@@ -1,0 +1,22 @@
+<style>
+@media screen and (min-width: 680px) { 
+        #my-wrapper {
+            margin-left: 30vw; width: 65vw;
+        }
+        .fl-scrolly-step {
+            margin-left: -25vw !important; width: 20vw !important;
+        }
+}
+</style>
+
+<div id="my-wrapper">
+<div class="flourish-embed" data-src="story/2449903" data-url="https://public.flourish.studio/story/2449903/embed" data-height="100vh"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<p>Ustaliliśmy, że w latach 2017–2022 do PCPR-ów wpłynęły co najmniej 303 zgłoszenia o przemocy w rodzinach zastępczych <a href="#story/590499/slide-1"></a></p>
+<p>W 166 przypadkach prokuratury odmówiły wszczęcia dochodzenia <a href="#story/2449903/slide-2"></a></p>
+<p>W latach 2017–2022 r. prokuratury prowadziły co najmniej 73 postępowania w sprawach przemocy lub molestowania w rodzinach zastępczych. <br><br>Prokuratury najczęściej odmawiały nam wglądu w uzasadnienia umorzenia takich spraw. <a href="#story/2449903/slide-3"></a></p>
+<p> Tylko w 11 z 303 zgłoszeń wydano akt oskarżenia – reszta nigdy się tego nie doczekała. Czy rzeczywiście należało umarzać wszystkie te – zazwyczaj niełatwe – dochodzenia? <br><br>Przeanalizowaliśmy tych kilka przypadków, w których pozwolono nam na wgląd w akta.<a href="#story/2449903/slide-4"></a></p>
+</div>
+<script src="https://cdn.flourish.rocks/flourish-scrolly-v3.1.0.min.js"></script>
+<script type="text/javascript">initFlourishScrolly();</script>
+
+
